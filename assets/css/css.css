@@ -1,0 +1,25 @@
+/* .translated-ltr {
+ margin-top: -40px;
+}
+.translated-ltr {
+ margin-top: -40px;
+} */
+.goog-te-banner-frame {
+ display: none;
+}
+
+.goog-logo-link {
+ display: none !important;
+}
+
+.goog-te-gadget {
+ color: transparent !important;
+}
+
+.goog-te-gadget .goog-te-combo {
+ /* margin: 4px 0; */
+ transform: translateY(-5px);
+ padding: 1px;
+ border: 1px solid black;
+ color: black;
+}
